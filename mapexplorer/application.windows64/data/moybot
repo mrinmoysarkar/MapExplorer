@@ -1,0 +1,13 @@
+Robot Controll
+forward	Go forward	1	BUTTON	Button 0	0	0.0	0.0
+backword	Go backword	1	BUTTON	Button 2	0	0.0	0.0
+left	Go left	1	BUTTON	Button 3	0	0.0	0.0
+right	Go right	1	BUTTON	Button 1	0	0.0	0.0
+cameraupdown	Camera Up and Down	3	SLIDER	Y Axis	0	1.0	0.0
+handupdown	Hand up and Down	3	SLIDER	Z Rotation	0	1.0	0.0
+griprelease	Grip and Release	3	SLIDER	X Axis	0	1.0	0.0
+showfield	Showfiels	1	BUTTON	Button 8	0	0.0	0.0
+zoomin	Zoom In	1	BUTTON	Button 7	0	0.0	0.0
+zoomout	Zoom out	1	BUTTON	Button 6	0	0.0	0.0
+shiftleft	Shift Left	1	BUTTON	Button 4	0	0.0	0.0
+shiftright	Shift Right	1	BUTTON	Button 5	0	0.0	0.0
